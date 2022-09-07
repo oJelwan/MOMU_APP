@@ -5,7 +5,7 @@ from datetime import datetime
 import time
 import os
 import csv
-
+# 07/09/2022
 sucursal = "momu_la_bola"
 
 # IMPORTS
